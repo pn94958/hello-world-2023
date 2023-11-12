@@ -1,1 +1,0 @@
-int main {} // this is the simplest possible program
