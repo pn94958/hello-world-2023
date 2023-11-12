@@ -1,5 +1,5 @@
 # hello-world-2023
-Hello, I'm an artist and I'm trying to become a game developer.
+Hello, I'm an artist and I'm trying to become a game developer. This repository is for my early C++ code.
 
 ### My current plans are:
 <ul>
