@@ -10,7 +10,7 @@ void fill_table(double t[])
 {
     for(int i = 0; i < table_size; i++)
         {
-            t[i] = i*13;
+            t[i] = i*13.09;
         }
 }
 
@@ -37,4 +37,6 @@ int main()
     cout << "The final element of the table is " << table[table_size] << ".\n";
 
     table_thingie(table, 52);
+    table_thingie(table, 0);
+    table_thingie(table, -15);
 }
